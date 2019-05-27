@@ -13,18 +13,7 @@ public class GitdemoApplication {
 
 	//Hello, Testing...1, 2, 3...
 	
-	public static void method( ) {
-		System.out.println("This is a random mesage");
-	}
-	
-	public static void testError() {
-		System.out.println("How to use git hub");
-	}
-	
-	
-	public static void secondError() {
-		System.out.println("how to consistently get git hub to work");
-	}
+
 }
 
 
