@@ -12,7 +12,7 @@ public class GitdemoApplication {
 	}
 	
 	public static void hello(){
-		System.out.println("hello patrick");
+		System.out.println("hello patrick..");
 	}
 
 	//Hello, Testing...1, 2, 3...
