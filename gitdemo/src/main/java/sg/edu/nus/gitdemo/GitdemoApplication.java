@@ -15,6 +15,10 @@ public class GitdemoApplication {
 	public static void method( ) {
 		System.out.println("This is a random mesage");
 	}
+	
+	public static void testError() {
+		System.out.println("How to use git hub");
+	}
 }
 
 
