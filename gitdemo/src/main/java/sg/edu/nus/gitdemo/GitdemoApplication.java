@@ -10,6 +10,10 @@ public class GitdemoApplication {
 		SpringApplication.run(GitdemoApplication.class, args);
 		System.out.println("Hello laips");
 	}
+	
+	public static void hello(){
+		System.out.println("hello patrick..");
+	}
 
 	//Hello, Testing...1, 2, 3...
 	
