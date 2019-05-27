@@ -8,6 +8,7 @@ public class GitdemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitdemoApplication.class, args);
+		System.out.println("Hello laips");
 	}
 
 	//Hello, Testing...1, 2, 3...
