@@ -14,15 +14,22 @@ public class GitdemoApplication {
 	public static void hello(){
 		System.out.println("hello patrick..");
 	}
+	
+	public static void mathod00() {
+		//ggggggg
+	}
 
 	//Hello, Testing...1, 2, 3...
 	
 	public static void method3() {
 		//hahahahaha
 	}
-	
-	///it1
 
+	
+	public static void method4() {
+		//hahahahaha
+	}
+	
 }
 
 
