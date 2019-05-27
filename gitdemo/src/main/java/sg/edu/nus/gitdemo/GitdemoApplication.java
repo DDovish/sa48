@@ -13,9 +13,7 @@ public class GitdemoApplication {
 
 	//Hello, Testing...1, 2, 3...
 	
-	public static void method( ) {
-		System.out.println("This is a random mesage");
-	}
+
 }
 
 
