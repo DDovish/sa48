@@ -20,6 +20,11 @@ public class GitdemoApplication {
 	public static void testError() {
 		System.out.println("How to use git hub");
 	}
+	
+	
+	public static void secondError() {
+		System.out.println("how to consistently get git hub to work");
+	}
 }
 
 
