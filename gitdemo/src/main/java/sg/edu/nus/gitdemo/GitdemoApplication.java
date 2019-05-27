@@ -24,6 +24,12 @@ public class GitdemoApplication {
 	public static void method3() {
 		//hahahahaha
 	}
+<<<<<<< HEAD
+=======
+	
+	//lalaalalal
+	
+>>>>>>> refs/remotes/origin/master
 
 	
 	public static void method4() {
